@@ -57,10 +57,4 @@ Les contributions sont les bienvenues! Si vous avez des idées d'amélioration, 
 
 ---
 
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
-
----
-
 Amusez-vous bien en jouant à Space Survive! 🚀🎮
